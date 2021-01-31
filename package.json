@@ -1,0 +1,25 @@
+{
+  "name": "gitnodeapp",
+  "version": "1.0.0",
+  "description": "my first node app with git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shailendrarai855/gitnodeapp.git"
+  },
+  "keywords": [
+    "gitnodeapp"
+  ],
+  "author": "shailendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shailendrarai855/gitnodeapp/issues"
+  },
+  "homepage": "https://github.com/Shailendrarai855/gitnodeapp#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
